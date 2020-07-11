@@ -1,0 +1,19 @@
+
+> Input:              black
+> Extracted keywords: black
+> Predicted poem:     the black-blooded yanks would be found in the sky, and the black-and-white scene, and the black-and-white scene, and the "sigh" "the "s", "i'm ad say, "no, "boo!"
+> Input:              rain
+> Extracted keywords: rain
+> Predicted poem:     the "the rain" is the sun, and the sun's wet. it's a clear demonstration of rain, and the sun's a good place, and the sun's got a good place to behold.
+> Input:              example
+> Extracted keywords: example
+> Predicted poem:     an example of "a-"," said the "sew, "i'm a "s-ta-," i say, "i'm a "s-," "s-," i'm a "s-," "i'm",
+> Input:              corona
+> Extracted keywords: corona
+> Predicted poem:     the coronary arteries, the corona, and the sun, and the sun, and the sun, and the sun, and the sun, and the corona are quite well known as a "swine!"
+> Input:
+> Extracted keywords:
+> Predicted poem:     the "the "s" is the "s". "i'm a "s-a-"." "i'm a "s-uh-uh-uh-uh-uh-uh-uh-uh-uh-uh-uh-uh-uh-uh-uh
+> Input:              bird nest children dog
+> Extracted keywords: bird nest children dog
+> Predicted poem:     a bird of the nest in the children, a dog-like bird, and the dog-footed wings. it's a dog-like bird, and the dog-eaters, and the dog is the best thing.

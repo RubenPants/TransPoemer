@@ -1,0 +1,10 @@
+# Install PyTorch first: https://pytorch.org/
+pandas
+tqdm
+transformers
+langdetect
+matplotlib
+torchtext
+nltk
+rake-nltk
+jupyter

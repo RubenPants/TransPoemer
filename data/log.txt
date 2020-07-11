@@ -1,0 +1,66 @@
+Reading the raw poems... done, 0.28 seconds.
+--> 90453 raw limerick samples read in
+Processing the limericks...
+--> Raw tokens removed
+--> Special symbols removed
+--> Duplicate segments removed
+--> Created 413 more samples after split
+--> Removed 272 samples that violated the space-constraint
+--> Removed 79 samples that contained '<unk>' symbols
+--> Removed 202 non-english samples
+ done, 6 minutes, and 8.08 seconds.
+--> 90313 limerick samples processed
+Temporarily saving the poems... done, 0.08 seconds.
+--> Limerick dataset has size of 90313
+Pruning long segments done, 14.82 seconds.
+--> Pruned combined dataset has size of 90272
+Subtracting keywords... done, 32.81 seconds.
+--> Removed 153 empty keyword samples
+Splitting the data... done, 0.0 seconds.
+--> Size of remaining samples: 90119
+--> Training size: 81107
+--> Validation size: 4506
+--> Testing size: 4506
+Saving... done, 0.26 seconds.
+Encoding and counting
+--> 26116 unique tokens
+--> Number of singletons: 1839
+--> Number of doubles: 1431
+--> Number of triples: 1211
+--> Number of less or equal than 10: 10066
+Rearranging
+Visualizing
+Loading the data... done, 0.62 seconds.
+--> 499715 raw quote samples read in
+Processing the quotes...
+--> Raw tokens removed
+--> Special symbols removed
+--> Duplicate segments removed
+--> Created 91971 more samples after split
+--> Removed 828 samples that violated the space-constraint
+--> Removed 2198 samples that contained '<unk>' symbols
+--> Removed 5821 non-english samples
+ done, 34 minutes, and 17.73 seconds.
+--> 582839 quote samples processed
+Temporarily saving the data... done, 0.57 seconds.
+--> Quotes dataset has size of 582839
+Pruning long segments done, 1 minutes, and 26.68 seconds.
+--> Pruned combined dataset has size of 574082
+Subtracting keywords... done, 2 minutes, and 34.66 seconds.
+--> Removed 15753 empty keyword samples
+Splitting the data... done, 0.01 seconds.
+--> Size of remaining samples: 558329
+--> Training size: 502496
+--> Validation size: 27916
+--> Testing size: 27917
+Saving... done, 1.74 seconds.
+Encoding and counting
+--> 28449 unique tokens
+--> Number of singletons: 1068
+--> Number of doubles: 920
+--> Number of triples: 797
+--> Number of less or equal than 10: 6480
+Rearranging
+Visualizing
+
+--> process.py has finished successfully! <--

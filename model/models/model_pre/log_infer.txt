@@ -1,0 +1,19 @@
+
+> Input:              black
+> Extracted keywords: black
+> Predicted poem:     the black is a man who is a man who is a man who is a man who is a man who is a man who is a man who is a man who is a man who is a man who is a man who is a man who is a man who is black.
+> Input:              rain
+> Extracted keywords: rain
+> Predicted poem:     the rain is a beautiful thing.
+> Input:              example
+> Extracted keywords: example
+> Predicted poem:     the example of the human race is that the most important thing is to be a man.
+> Input:              corona
+> Extracted keywords: corona
+> Predicted poem:     the great thing about the great things that are currently living in the rainforest.
+> Input:
+> Extracted keywords:
+> Predicted poem:     the best way to get is to be a good person.
+> Input:              bird nest children dog
+> Extracted keywords: bird nest children dog
+> Predicted poem:     the bird is a nest of children, and the dog is a man.

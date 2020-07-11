@@ -1,0 +1,19 @@
+
+> Input:              black
+> Extracted keywords: black
+> Predicted poem:     the black-eyed young lady named (a "a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-k."
+> Input:              rain
+> Extracted keywords: rain
+> Predicted poem:     the "the "old" is a "the """""" "it's a """""" "it's a "no," "it's a "no," "it's a "it"."
+> Input:              example
+> Extracted keywords: example
+> Predicted poem:     an example of a "a"," said the "a"." "i'm a "a"." "it's a "a"." "it's a "a"." "it's a "a"."
+> Input:              corona
+> Extracted keywords: corona
+> Predicted poem:     the corona's a wonderful place. the "the swine" is apt to be. "it's a "a"." "it's a "no," "no," "no," "no," "no,"
+> Input:
+> Extracted keywords:
+> Predicted poem:     "i'm a man," said the guy, "i'm a man." "i'm a man," said the guy, "i'm a guy," said the guy. "i'm a guy." "i'm a guy."
+> Input:              bird nest children dog
+> Extracted keywords: bird nest children dog
+> Predicted poem:     a bird's a nest, and the children are not a dog. it's a big deal, but it's a big deal. it's a big deal, but it's a big deal.

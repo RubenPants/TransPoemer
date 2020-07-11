@@ -1,0 +1,299 @@
+Creating visualization for: test_sample_0
+> src = break sprout thighs snout
+> trg = comedogenic foods make me break out? acne pimples determined to sprout. greasy pizza and fries send some fat to my thighs and some oil to the tip of my snout.
+> predicted trg = a break-upeeeeee is a plant called a "a tree". it's a sprout from your thighs, and your snout, and your skin smells like a "a"."
+> GLEU score: 5.29
+
+Creating visualization for: test_sample_1
+> src = tonsured crown hope spread young girls comments scalding rather dead
+> trg = as if tonsured, the crown of my head wears a calvity; hope it won't spread. i'm too young to be balding; girls' comments are scalding: "brother?" i'd rather be dead.
+> predicted trg = tonsured the crown, i hope, spread the young, and the girls are scalding. i'm rather a dead-hearted guy. i'm a "i'm a man of a man."
+> GLEU score: 20.87
+
+Creating visualization for: test_sample_2
+> src = multi rule anglo bengali thinks obdurate
+> trg = multi-lingual instruction's the rule at our anglo-vernacular school. the old dean, a bengali, thinks the concept pure folly. he's an obdurate, insular mule.
+> predicted trg = a multi-ist named (a rule) is an anglo-catholic, a bengali who thinks he's obdurate. he's a "a"," "a """"""" "a""."
+> GLEU score: 16.82
+
+Creating visualization for: test_sample_3
+> src = bolt mauser young knew stuff somme
+> trg = that's a bolt-action rifle, my boy: my old world war i mauser? my joy (i was young, knew my stuff; just one round was enough), my best chum at the somme? it's no toy.
+> predicted trg = a bolt of mauser's young, knew the stuff that the russians would say, "the sommelier." "the arafat's a sommelier."
+> GLEU score: 12.84
+
+Creating visualization for: test_sample_4
+> src = lost depressing deny look dressing worry hell hurry shotgun girl
+> trg = where's my baby? she's lost; it's depressing. can't deny it?just look how she's dressing. i'm to worry. what the hell is her hurry? where's the shotgun? my girl's adolescing.
+> predicted trg = i've lost my new girlfriend, and i'm depressing. i deny it, look at my dressing. i worry, i'm hell, hurry, and my shotgun is a girl.
+> GLEU score: 13.72
+
+Creating visualization for: test_sample_5
+> src = kremlin rain shine emplaced protection crisis
+> trg = to the kremlin, a dedicated line from the white house was there, rain or shine: a direct phone connection, emplaced for protection in crisis, a prudent design.
+> predicted trg = the kremlin's a "the rain" is a shine. it's emplaced, for protection from crisis, and the "s" is apt to be "a"."
+> GLEU score: 17.06
+
+Creating visualization for: test_sample_6
+> src = equilibrium shot unstable often side side clings pride pisses misses
+> trg = poor old pop's equilibrium's shot; he's unstable, more often than not. so he sways side to side and he clings to his pride as he pisses? and misses the pot.
+> predicted trg = equilibrium's shot is unstable, often, side-side, and clings to pride. it pisses, and it misses, and it's a "the same".
+> GLEU score: 19.41
+
+Creating visualization for: test_sample_7
+> src = know market book inside peek look excerpt salacious book sales cook
+> trg = our know-how will market your book: inside-peek it?we'll give folks a look. we'll excerpt the best lewd parts, salacious or nude parts, and use facebook. your sales will just cook.
+> predicted trg = you know that the market's a book that's inside, peek at the look. excerpt, salacious, book, sales, cook, and you're a "a"."
+> GLEU score: 13.4
+
+Creating visualization for: test_sample_8
+> src = equable tough upset like measured defeated corvette
+> trg = 's equable?tough to upset, like a measured, genteel minuet, so, once certain bob cheated, jen wasn't defeated. she temperately torched his corvette.
+> predicted trg = equable is tough, upset, like a new guy who's measured and defeated, and his corvette, and his "i'm ain't."
+> GLEU score: 19.75
+
+Creating visualization for: test_sample_9
+> src = weather nuts climbs nature crimes
+> trg = weather's nuts; these are fast changing times, as the temperature crashes, then climbs. these were equable shores; now we're sheltered indoors. nature's punishing us for our crimes.
+> predicted trg = the weather's nuts, and it climbs, and the nature of crimes. it's a "a-e-e-e-e-e-e-e-e-a-a-a-a-a-a-a-a-a-a-a-a-a-."
+> GLEU score: 9.26
+
+Creating visualization for: test_sample_10
+> src = someone peeling okay montage cool collage creation
+> trg = someone's peeling that billboard display. there are others beneath, so okay. it's like retro-montage? very cool d?collage: creation by taking away.
+> predicted trg = someone's peeling, okay, and the montage is cool. it's a collage, and the creation of a "a"."
+> GLEU score: 20.67
+
+Creating visualization for: test_sample_11
+> src = brahman sporting steer pundit chump resistant heat docile stump
+> trg = this brahman is sporting a hump. it's a steer, not some pundit, you chump. resistant to heat, it yields excellent meat, and it's docile. get down off that stump.
+> predicted trg = brahman's sporting a steer, a pundit, a chump, resistant to heat. docile, a small snox, a stump, a resistant to a "a"."
+> GLEU score: 21.84
+
+Creating visualization for: test_sample_12
+> src = know prince head handle breathe word soul dead
+> trg = only we know the prince was just wed. get those dollar signs out of your head: any leak might bring scandal that's beastly to handle. breathe a word to a soul and we're dead.
+> predicted trg = i know that the prince's head is a handle, and i breathe. it's a word for my soul, but i'm dead. i'm a "i'm a man," i'm a man.
+> GLEU score: 11.86
+
+Creating visualization for: test_sample_13
+> src = give need transfusion autologous donated worth thought give
+> trg = i often give blood to red cross; now i need a transfusion (blood loss). it's autologous. see, i've donated to me? worth a thought when you "don't give a toss"?
+> predicted trg = i've got a new word for a "given", and i need a transfusion. autologous, i've donated my worth. i thought i'd give it a "a".
+> GLEU score: 24.27
+
+Creating visualization for: test_sample_14
+> src = town eyes soft tawny
+> trg = i fell hard, on my first time in town, for her eyes and insoluble frown. then her caramel skin just kept drawing me in: soft and tawny, with fine golden down.
+> predicted trg = in the town, the old man of his eyes was soft and tawny. he was a "i'm a man," he said, "i'm a man, and i'm a man."
+> GLEU score: 9.55
+
+Creating visualization for: test_sample_15
+> src = places love stood long calypso song symbol part show
+> trg = the old sailed by cousteau took him places we'd all love to go. she stood by him so long, that calypso of song, both as symbol and part of the show.
+> predicted trg = in places, i love you, and i stood for long, and a song, a symbol of part. i'm a show that i'm not in a "a"."
+> GLEU score: 11.69
+
+Creating visualization for: test_sample_16
+> src = well start passion heart spirit okay four
+> trg = ? well, that's a start. dive right in with your passion, your heart. but while spirit's okay, it takes talent to play f?r with a four-minute fart.
+> predicted trg = well, i'll start with a passion for heart, and my spirit is okay. i'll see that i'm a "four-legged fellow". "i'm a "i'm a "a"."
+> GLEU score: 9.71
+
+Creating visualization for: test_sample_17
+> src = suggest sprays mace noticed nails face
+> trg = i suggest, "let's go up to your place." without warning, she sprays me with mace. hadn't noticed her nails, which she swiftly unveils then she viciously claws at my face.
+> predicted trg = i suggest that i sprays my mace, and i noticed my nails on my face. i'm a "i'm ain't," i'm aptly? i'm a "i'm ain't a 't."
+> GLEU score: 11.97
+
+Creating visualization for: test_sample_18
+> src = many survived still astoundingly stand
+> trg = we kept climbing, i'll never know how in the death zone past twenty-six thou. many haven't survived who've been o2 deprived. still, astoundingly, here we stand now.
+> predicted trg = many admonster named (i survived), but still, astoundingly, i'd stand in a "a"." "i'm a "a"."
+> GLEU score: 21.91
+
+Creating visualization for: test_sample_19
+> src = fighting weak forearm long huge pale cheek
+> trg = he's been fighting?looks battered and weak. on his forearm's a long, fiery streak. and a huge, angry bruise in intense claret hues encrimsons the pale of his cheek.
+> predicted trg = i'm fighting a weak-knuckled sword. my forearm's long, so huge, i'm pale. i'm a sly sly sly? i'm a "a """""""?" "the cheek".
+> GLEU score: 10.57
+
+Creating visualization for: test_sample_20
+> src = paid received prepared surprises pointer know
+> trg = having paid him a generous price, we received this ex gratia advice: "be prepared for surprises; the old creek sometimes rises? just a pointer, you know, to be nice."
+> predicted trg = i paid a new job, and received a new job, but i'm prepared for surprises. i'm a pointer, i know, and i'm a "a"."
+> GLEU score: 20.37
+
+Creating visualization for: test_sample_21
+> src = examined lives informed bent reform wants called
+> trg = our new house mother, lately installed, has examined our lives; she's "appalled." she's informed the whole dorm that she's bent on reform. "custos morum," she wants to be called.
+> predicted trg = i examined my lives in a "s"," i informed, "i'm bent. i'm a reform, but i'm not what i wants to be called "a"."
+> GLEU score: 16.5
+
+Creating visualization for: test_sample_22
+> src = mess free life taxation online
+> trg = a digital nomad, that's me? i'm a mess, barely dressed?and i'm free. life's a working vacation; wi-fi flies from taxation. seeking know-how online? pay my fee.
+> predicted trg = a mess of the free of your life is a taxation. you're online, you're a big deal. you're a big deal. you're a big deal.
+> GLEU score: 9.47
+
+Creating visualization for: test_sample_23
+> src = elaterid duress balls less bugs change address
+> trg = an elaterid's under duress: it balls up and locks tight, more or less. for its next beetle trick, with an audible click, it bugs out for a change of address.
+> predicted trg = elaterid's duress, and the balls are less than bugs. they're a change that's an address, and they're not a "a"."
+> GLEU score: 20.99
+
+Creating visualization for: test_sample_24
+> src = sure manor wait sweat brow
+> trg = i'm embarrassed financially now, but i'm sure i'll re somehow. now the manor's been, it's quite queer feeling strapped? wait, what's that you say? sweat of my brow?
+> predicted trg = i'm sure that my manor's wait for a sweat. i'm a man who's a man who's a man who's a man who's a man who's a man who's a brow.
+> GLEU score: 18.04
+
+Creating visualization for: test_sample_25
+> src = addicted books reads true year bibliolatry hooks
+> trg = my big brother's addicted to books; they fill shelving, line walls and stuff nooks. oh, he reads them, that's true? in a year? one or two. bibliolatry's dug in its hooks.
+> predicted trg = i'm addicted to books that reads, "it's true, but i'm a year." "i'm bibliolatry," i'm a "hooks," "i'm a "a"."
+> GLEU score: 15.77
+
+Creating visualization for: test_sample_26
+> src = surprising eustasy folks
+> trg = global warming! it isn't surprising: all over, sea levels are rising. it's eustasy, folks, not some ecofreak hoax. major land forms are slowly resizing.
+> predicted trg = it's surprising that eustasy, and it's not a "a"." "it's a "a"," "a """""" "a""." "folks"folks, folks, "i'm a.
+> GLEU score: 12.41
+
+Creating visualization for: test_sample_27
+> src = think newsworthy disagree story delicious bury three
+> trg = think it's newsworthy? i disagree: it's a story that no one need see. i know gossip's delicious, but this is plain vicious. we'll bury it?page twenty-three.
+> predicted trg = i think i'm newsworthy, disagree. i'm a story that's delicious. i'll bury my three-legged friend, but i'm not a "a"."
+> GLEU score: 21.91
+
+Creating visualization for: test_sample_28
+> src = step please mind find help price leave cause bind
+> trg = i'll step out for a while? please don't mind me. bearing down on the can's where you'll find me. love bananas and rice? help yourself; pay the price, but i'll leave them behind, 'cause they bind me.
+> predicted trg = step up, please, mind, find a quick, and help you get a price. leave the cause of your own, and you'll find yourself in a bind.
+> GLEU score: 10.87
+
+Creating visualization for: test_sample_29
+> src = fail length strength think drowning inhale
+> trg = if we etiolate plants, they go pale; without life-giving light, they will fail. in deep shadows, at length, plants lose color and strength. think of drowning?no air to inhale.
+> predicted trg = i fail to get up at length, and i'm in strength, and i think i'm drowning. i'm inhale, and i'm not in the sky. i'm a "i'm a "a"."
+> GLEU score: 11.21
+
+Creating visualization for: test_sample_30
+> src = town suzanne doffed gown impatient mated esker
+> trg = on the sinuous ridge north of town, my sweet prom date, suzanne, doffed her gown. with my ego inflated, impatient, we mated. on that esker, we've since settled down.
+> predicted trg = in the town, suzanne, i'm doffed with a gown. i'm impatient, mated, and i'm esker. i'm a snoo. i'm a snooze.
+> GLEU score: 17.68
+
+Creating visualization for: test_sample_31
+> src = curse obsessed worse love delight still compulsion
+> trg = is my amorism blessing or curse? i'm obsessed, but a man could do worse. love's my only delight. still, i don't feel contrite; this compulsion's sublimely diverse.
+> predicted trg = a curse is obsessed with a worse, but i love you, and i delight you, but i still have a compulsion to say that i'm not in my "a"."
+> GLEU score: 12.36
+
+Creating visualization for: test_sample_32
+> src = business seduction find pose blade dozer popsicle skin steel suction
+> trg = our business is building construction; all our calendars hint of seduction: find a beauty and pose her on the blade of a 'dozer, with a popsicle?skin, steel and suction.
+> predicted trg = business is seduction, you find, and pose a blade of dozer. popsicle's skin and steel, and the suction, and the suction.
+> GLEU score: 21.84
+
+Creating visualization for: test_sample_33
+> src = huge life
+> trg = when cadillac traveled new france, he was a huge, raw expanse. with but few faithful backers, and stubborn attackers, his life was a constant romance.
+> predicted trg = a huge-blooded young lady named (or her life-in-law) was a "a-law." "i'm a man," said the guy. "i'm a man," said the guy. "i'm a man."
+> GLEU score: 4.62
+
+Creating visualization for: test_sample_34
+> src = wind birds slugs seed breeze guess
+> trg = entomophilous plants require bugs? certain insects, not wind, birds or slugs: perhaps beetles or bees spread their seed, not the breeze. guess these critters deserve herbal hugs.
+> predicted trg = the wind's the birds of the slugs, and the seed of the breeze. "i'm a sly sneeze," i guess, "i'm a "a"."
+> GLEU score: 10.22
+
+Creating visualization for: test_sample_35
+> src = grandpa binder sheathing wheat clean feet last haywired baled
+> trg = grandpa's binder was sheathing our wheat when a jolt knocked me clean off my feet. when at last i, i'd been haywired and baled. that old reaper's goldurned obsolete.
+> predicted trg = grandpa's binder's sheathing the wheat that's clean. his feet are at last, and he's haywired to be baled. he's a "the loo", the "the "s"."
+> GLEU score: 21.03
+
+Creating visualization for: test_sample_36
+> src = complacency outlook frankly mess base decision data vision trust
+> trg = our complacency's crippled success, and our outlook is, frankly, a mess. so we'll base each decision on data and vision: we'll trust in the guess.
+> predicted trg = complacency's outlook, frankly, a mess. it's a base. it's a decision to fix your data, and your vision will trust.
+> GLEU score: 28.57
+
+Creating visualization for: test_sample_37
+> src = dinner profound causeur
+> trg = after dinner, we'd gather around to hear stories bizarre and profound. uncle jim's a causeur? the complete raconteur, his inventiveness widely renowned.
+> predicted trg = "i'm a dinner," said the "i'm not profound. "i'm a "no," "no," "no," "no, "no," "no, "no," "no, "no,""no
+> GLEU score: 4.44
+
+Creating visualization for: test_sample_38
+> src = discussing chances futile
+> trg = when an elder winds down in her bed, eyes bedimmed, mind adrift, words unsaid, as that darkness advances, discussing her chances is futile. be loving instead.
+> predicted trg = i'm discussing my chances of futile. i'm a man who's a man who's a man who's a man who's a man who's a man who's a man who's a man.
+> GLEU score: 4.12
+
+Creating visualization for: test_sample_39
+> src = pity choice need come side taxation
+> trg = i pity the next generation. deeper debt's the man's signal creation. can we ever repay it? his choice: need i say it? he'll come down on the side of taxation.
+> predicted trg = pity the choice of the need of a "come on," said the side of the law, "for taxation, you'll find peace," said the "amen".
+> GLEU score: 11.11
+
+Creating visualization for: test_sample_40
+> src = bandmaster wife brass lady class misperception proved rule
+> trg = a euphonium player at school told the bandmaster's wife, "you're so cool." he'd shown plenty of brass, but the lady had class. misperception, for him, proved the rule.
+> predicted trg = a bandmaster's wife's brass, and a lady's class. she's a misperception, proved to be a rule, but she's a "a"."
+> GLEU score: 25.77
+
+Creating visualization for: test_sample_41
+> src = ferment today catch prefer suffused okay bent
+> trg = why buy fresh? let food mellow, ferment. today's catch? that's just money misspent. why buy clothing? i prefer it suffused, a bit pungent. okay, so i'm bent.
+> predicted trg = ferment's today, i'll catch you, i prefer you to see. i'm suffused with a "okay," i'm bent. "i'm a "a"."
+> GLEU score: 18.13
+
+Creating visualization for: test_sample_42
+> src = rope
+> trg = page one gives us raw, basic dope, then the breakover really adds scope? (continued page thirty)? the story turns dirty. his wife reached the end of her rope.
+> predicted trg = a rope's a "a-line", a "a-line"," said the "a-d-a-d-a-d-a-d-a-d-a-d-d-a-d-d-d-d-d-d-d-d-
+> GLEU score: 1.85
+
+Creating visualization for: test_sample_43
+> src = smile face already smile feeling appealing qualms next
+> trg = what a smile! it's all over her face. we've just met and, already, first base! a duchenne smile's all feeling; true warmth is appealing. no qualms?next to her's my right place.
+> predicted trg = a smile on my face is already a smile. i'm feeling so appealing. i'm a qualms, and i'm next to my "i'm a "no," i'm a "a"."
+> GLEU score: 15.71
+
+Creating visualization for: test_sample_44
+> src = mermaid biform course centaur share scheme inclined endorse
+> trg = any mermaid is biform, of course, and the centaur: half human, half horse. these are binary creatures of share-the-wealth features? not a scheme i'm inclined to endorse.
+> predicted trg = a mermaid who's biform, of course, is a centaur, and share a scheme that's inclined to endorse. "it's a "a"," "a """"""" "a""."
+> GLEU score: 18.35
+
+Creating visualization for: test_sample_45
+> src = escalates find perspective socks floor
+> trg = if it escalates just a bit more, your squabble could grow to a war. cut the nasty invective and find some perspective. there are worse things than socks on the floor.
+> predicted trg = escalates, you'll find, perspective on your socks. you'll get a big deal on the floor, and you'll find that you'll find that your new car is a bit of a "a".
+> GLEU score: 14.95
+
+Creating visualization for: test_sample_46
+> src = made aware head said girl declare
+> trg = my daughter prefers my black mare who's twice bausond, she's made me aware: "the white patch on her head, one white foot," so she said. the girl's very well read, i declare.
+> predicted trg = i made a new guy, aware of his head, and he said, "i'm a girl, i declare, "i'm ain't," i'm a "ain't," i'm a "a"."
+> GLEU score: 10.43
+
+Creating visualization for: test_sample_47
+> src = peacock parading take take edge pride ditch swagger scored
+> trg = what a peacock! the guy's off his nut. he's parading about all astrut. i should take him aside, take the edge off that pride: "ditch the swagger; you scored with a slut."
+> predicted trg = a peacock's parading, and take a bow, and take a bow. it's a bit of a round the edge of a pride in a ditch, and a swagger, scored a new coat.
+> GLEU score: 15.66
+
+Creating visualization for: test_sample_48
+> src = high hard booked shown card tackles hand spot
+> trg = that defender came in high and hard, so he's booked; the ref's shown him a card. such tackles are banned, lest things get out of hand. once more? on the spot the guy's barred.
+> predicted trg = the high-powered young lady was hard to be booked. she was shown that her card was sued. her hand was a spot for her "a"."
+> GLEU score: 8.25
+
+Creating visualization for: test_sample_49
+> src = last floor machine heard rantings
+> trg = the old geezer, at last, had the floor? his cheval de bataille once more? how, at barely nineteen, he fought daley's machine? but we've heard all his rantings before.
+> predicted trg = at last, the floor of the machine was heard, "the loo is a big deal." "the rantings," said the "i'm a "a"." "i'm a "a"."
+> GLEU score: 10.55

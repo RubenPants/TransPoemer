@@ -1,0 +1,168 @@
+"C:\Users\Ruben\Documents\Projects\Transformer Models\TransPoemer\venv\Scripts\python.exe" "C:/Users/Ruben/Documents/Projects/Transformer Models/TransPoemer/main.py"
+Creating skeleton of the model...
+Loading pickled valid dataset... done, 0.01 seconds.
+Loading pickled test dataset... done, 0.01 seconds.
+Loading pickled train dataset... done, 0.48 seconds.
+Loading pickled pre_valid dataset... done, 0.18 seconds.
+Loading pickled pre_test dataset... done, 0.2 seconds.
+Loading pickled pre_train dataset... done, 3.18 seconds.
+ done, 32.77 seconds.
+ --> The model has 8,710,948 trainable parameters
+
+Model 'model_2' saved!
+Initializing training... done, 0.0 seconds.
+Start training:
+100%|██████████| 7852/7852 [29:48<00:00,  4.39it/s]
+100%|██████████| 437/437 [00:18<00:00, 23.96it/s]
+Making predictions: 100%|██████████| 200/200 [01:08<00:00,  2.90it/s]
+> Epoch: 01 | Time: 30m 6s
+	Train Loss: 4.600 | Val. Loss: 3.687
+	----------------- | Val. GLEU: 9.56
+	 --> Model saved under "pre_model_2_epoch01.pt" in model's folder
+	 --> Model improved: saved under "model_2.pt"
+100%|██████████| 7852/7852 [35:54<00:00,  3.64it/s]
+100%|██████████| 437/437 [00:28<00:00, 15.56it/s]
+Making predictions: 100%|██████████| 200/200 [01:34<00:00,  2.12it/s]
+> Epoch: 02 | Time: 36m 22s
+	Train Loss: 3.798 | Val. Loss: 3.312
+	----------------- | Val. GLEU: 12.6
+	 --> Model saved under "pre_model_2_epoch02.pt" in model's folder
+	 --> Model improved: saved under "model_2.pt"
+100%|██████████| 7852/7852 [35:00<00:00,  3.74it/s]
+100%|██████████| 437/437 [00:22<00:00, 19.16it/s]
+Making predictions: 100%|██████████| 200/200 [01:17<00:00,  2.58it/s]
+> Epoch: 03 | Time: 35m 23s
+	Train Loss: 3.557 | Val. Loss: 3.217
+	----------------- | Val. GLEU: 13.73
+	 --> Model saved under "pre_model_2_epoch03.pt" in model's folder
+  0%|          | 0/7852 [00:00<?, ?it/s]	 --> Model improved: saved under "model_2.pt"
+100%|██████████| 7852/7852 [38:00<00:00,  3.44it/s]
+100%|██████████| 437/437 [00:23<00:00, 18.40it/s]
+Making predictions: 100%|██████████| 200/200 [01:10<00:00,  2.85it/s]
+> Epoch: 04 | Time: 38m 24s
+	Train Loss: 3.460 | Val. Loss: 3.172
+	----------------- | Val. GLEU: 12.72
+	 --> Model saved under "pre_model_2_epoch04.pt" in model's folder
+	 --> Model improved: saved under "model_2.pt"
+100%|██████████| 7852/7852 [43:08<00:00,  3.03it/s]
+100%|██████████| 437/437 [00:22<00:00, 19.03it/s]
+Making predictions: 100%|██████████| 200/200 [01:19<00:00,  2.51it/s]
+> Epoch: 05 | Time: 43m 31s
+	Train Loss: 3.404 | Val. Loss: 3.141
+	----------------- | Val. GLEU: 12.78
+	 --> Model saved under "pre_model_2_epoch05.pt" in model's folder
+	 --> Model improved: saved under "model_2.pt"
+Creating skeleton of the model...
+Loading pickled valid dataset... done, 0.01 seconds.
+Loading pickled test dataset... done, 0.01 seconds.
+Loading pickled train dataset... done, 0.65 seconds.
+Loading pickled pre_valid dataset... done, 0.07 seconds.
+Loading pickled pre_test dataset... done, 0.07 seconds.
+Loading pickled pre_train dataset... done, 3.25 seconds.
+ done, 25.94 seconds.
+ --> The model has 8,710,948 trainable parameters
+
+Successfully loaded the previously stored model: 'model_2'!
+Initializing training... done, 0.0 seconds.
+Start training:
+100%|██████████| 1268/1268 [06:49<00:00,  3.09it/s]
+100%|██████████| 71/71 [00:04<00:00, 15.68it/s]
+Making predictions: 100%|██████████| 200/200 [03:24<00:00,  1.02s/it]
+> Epoch: 01 | Time: 6m 54s
+	Train Loss: 3.753 | Val. Loss: 3.477
+	----------------- | Val. GLEU: 12.16
+	 --> Model saved under "model_2_epoch01.pt" in model's folder
+  	 --> Model improved: saved under "model_2.pt"
+100%|██████████| 1268/1268 [06:49<00:00,  3.10it/s]
+100%|██████████| 71/71 [00:04<00:00, 14.37it/s]
+Making predictions: 100%|██████████| 200/200 [03:01<00:00,  1.10it/s]
+> Epoch: 02 | Time: 6m 54s
+	Train Loss: 3.525 | Val. Loss: 3.427
+	----------------- | Val. GLEU: 13.52
+	 --> Model saved under "model_2_epoch02.pt" in model's folder
+	 --> Model improved: saved under "model_2.pt"
+100%|██████████| 1268/1268 [06:39<00:00,  3.17it/s]
+100%|██████████| 71/71 [00:04<00:00, 16.29it/s]
+Making predictions: 100%|██████████| 200/200 [02:51<00:00,  1.17it/s]
+> Epoch: 03 | Time: 6m 43s
+	Train Loss: 3.410 | Val. Loss: 3.404
+	----------------- | Val. GLEU: 15.34
+	 --> Model saved under "model_2_epoch03.pt" in model's folder
+  	 --> Model improved: saved under "model_2.pt"
+100%|██████████| 1268/1268 [06:47<00:00,  3.11it/s]
+100%|██████████| 71/71 [00:04<00:00, 15.62it/s]
+Making predictions: 100%|██████████| 200/200 [03:26<00:00,  1.03s/it]
+> Epoch: 04 | Time: 6m 51s
+	Train Loss: 3.325 | Val. Loss: 3.392
+	----------------- | Val. GLEU: 13.78
+	 --> Model saved under "model_2_epoch04.pt" in model's folder
+	 --> Model improved: saved under "model_2.pt"
+100%|██████████| 1268/1268 [06:44<00:00,  3.14it/s]
+100%|██████████| 71/71 [00:04<00:00, 16.27it/s]
+Making predictions: 100%|██████████| 200/200 [03:06<00:00,  1.07it/s]
+> Epoch: 05 | Time: 6m 48s
+	Train Loss: 3.257 | Val. Loss: 3.382
+	----------------- | Val. GLEU: 14.01
+	 --> Model saved under "model_2_epoch05.pt" in model's folder
+	 --> Model improved: saved under "model_2.pt"
+100%|██████████| 1268/1268 [06:49<00:00,  3.10it/s]
+100%|██████████| 71/71 [00:04<00:00, 14.78it/s]
+Making predictions: 100%|██████████| 200/200 [02:59<00:00,  1.12it/s]
+> Epoch: 06 | Time: 6m 53s
+	Train Loss: 3.199 | Val. Loss: 3.393
+	----------------- | Val. GLEU: 14.1
+  	 --> Model saved under "model_2_epoch06.pt" in model's folder
+	 --> Model did not improve!
+100%|██████████| 1268/1268 [06:51<00:00,  3.08it/s]
+100%|██████████| 71/71 [00:04<00:00, 16.22it/s]
+Making predictions: 100%|██████████| 200/200 [02:58<00:00,  1.12it/s]
+> Epoch: 07 | Time: 6m 55s
+	Train Loss: 3.150 | Val. Loss: 3.394
+	----------------- | Val. GLEU: 13.14
+  	 --> Model saved under "model_2_epoch07.pt" in model's folder
+	 --> Model did not improve!
+100%|██████████| 1268/1268 [06:55<00:00,  3.05it/s]
+100%|██████████| 71/71 [00:04<00:00, 15.57it/s]
+Making predictions: 100%|██████████| 200/200 [03:18<00:00,  1.01it/s]
+> Epoch: 08 | Time: 7m 0s
+	Train Loss: 3.107 | Val. Loss: 3.404
+	----------------- | Val. GLEU: 13.97
+	 --> Model saved under "model_2_epoch08.pt" in model's folder
+	 --> Training has stagnated, terminating
+100%|██████████| 1268/1268 [04:42<00:00,  4.50it/s]
+100%|██████████| 71/71 [00:03<00:00, 19.85it/s]
+Making predictions: 100%|██████████| 200/200 [02:16<00:00,  1.47it/s]
+> Epoch: 09 | Time: 4m 45s
+	Train Loss: 3.087 | Val. Loss: 3.404
+	----------------- | Val. GLEU: 14.58
+	 --> Model saved under "model_2_epoch01.pt" in model's folder
+	 --> Model improved: saved under "model_2.pt"
+100%|██████████| 1268/1268 [04:38<00:00,  4.55it/s]
+100%|██████████| 71/71 [00:03<00:00, 19.83it/s]
+Making predictions: 100%|██████████| 200/200 [02:39<00:00,  1.25it/s]
+> Epoch: 10 | Time: 4m 42s
+	Train Loss: 3.045 | Val. Loss: 3.407
+	----------------- | Val. GLEU: 13.38
+	 --> Model saved under "model_2_epoch02.pt" in model's folder
+	 --> Model did not improve!
+100%|██████████| 1268/1268 [04:50<00:00,  4.37it/s]
+100%|██████████| 71/71 [00:03<00:00, 19.57it/s]
+Making predictions: 100%|██████████| 200/200 [02:45<00:00,  1.21it/s]
+> Epoch: 11 | Time: 4m 53s
+	Train Loss: 3.011 | Val. Loss: 3.420
+	----------------- | Val. GLEU: 13.99
+  	 --> Model saved under "model_2_epoch03.pt" in model's folder
+	 --> Model did not improve!
+100%|██████████| 1268/1268 [04:34<00:00,  4.62it/s]
+100%|██████████| 71/71 [00:03<00:00, 20.68it/s]
+Making predictions: 100%|██████████| 200/200 [02:32<00:00,  1.31it/s]
+> Epoch: 12 | Time: 4m 37s
+	Train Loss: 2.983 | Val. Loss: 3.425
+	----------------- | Val. GLEU: 14.62
+	 --> Model saved under "model_2_epoch04.pt" in model's folder
+	 --> Training has stagnated, terminating
+
+
+overview:
+    - 5 epoch of pre-training
+    - 5 epochs of fine-tuning
